@@ -7,8 +7,9 @@ sections:
     component: hero_block.html
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
+      who need a sleek, modern SaaS site.
+    image: >-
+      https://res.cloudinary.com/maxgoldhouse/image/upload/c_fill,h_600,w_1400,g_south/bouginvillia.jpg
     actions:
       - label: Learn More
         url: /features
@@ -54,7 +55,7 @@ sections:
     component: reviews_block.html
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      semper libero id sodales.
     bg: white
     reviews:
       - author: John Doe
@@ -92,3 +93,4 @@ menus:
     weight: 1
 layout: home
 ---
+

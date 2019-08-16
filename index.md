@@ -8,8 +8,7 @@ sections:
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
-    image: >-
-      https://res.cloudinary.com/maxgoldhouse/image/upload/c_fill,h_600,w_1400,g_south/bouginvillia.jpg
+    image: images/hero.png
     actions:
       - label: Learn More
         url: /features
